@@ -1,0 +1,98 @@
+/* Alterações globais no estilo */
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: hsl(34, 100%, 92%);
+  font-family: 'Roboto Serif', serif;
+  text-transform: uppercase;
+  color: hsl(40, 3%, 17%);
+  line-height: 16px;
+}
+
+ul{
+  list-style: none;
+}
+
+/* Alterações do estilo das fontes */
+
+header p, li .description{
+  font-family: 'Roboto', sans-serif;
+  text-transform: none;
+  font-size: 14px;
+  color: hsla(0, 0%, 0%, 0.7);
+}
+
+/* Alterações do estilo no Header */
+
+header, section {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+header{
+  padding: 32px 0;
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1509566571888-9075f0776547?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+  
+header div img{
+  margin-bottom: 5px;
+}
+
+header h1{
+  margin-bottom: 4px;
+  font-size: 28px;
+  line-height: 33px;
+}
+
+header h1 span{
+  color: hsl(31, 100%, 30%);
+}
+
+/* Alterações do estilo das sections */
+
+section h2{
+  background-color: hsl(32, 98%, 83%);
+  padding: 8px 16px;
+  text-align: center;
+  margin-bottom: 24px;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+/* Alterações do estilo da lista */
+
+section ul{
+  margin-bottom: 24px;
+}
+
+section ul li{
+  display: flex;
+  margin-bottom: 16px;
+}
+
+li .name{
+  width: 220px;
+  margin-bottom: 8px;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+li .description{
+  width: 230px;
+  text-align: justify;
+  color: hsla(0, 0%, 0%, 0.6);
+  line-height: 21px;
+}
+
+li .price{
+  font-size: 16px;
+}
+
+
+
