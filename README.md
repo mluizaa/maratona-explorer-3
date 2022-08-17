@@ -8,9 +8,9 @@ Esse projeto é a estrutura de um <strong>menu de restaurante</strong> feito uti
 
 #### Para visualizar o menu do RocketCoffee basta <a href="clever-pie-b9f17f.netlify.app">clicar aqui</a> ou escanear o QRcode abaixo com o celular! 
 
-<p align="center">
+<div align="center">
   <img src="./frame.png" width="200" height="250" title="Leia o QRcode com o seu celular" alt="QR code para acessar o menu">
-</p>
+</div>
 
 O design básico do menu foi fornecido pela Rocketseat via Figma, mas realizei alterações no modelo original, como a adição da logo, imagens e mais seções. 
 
