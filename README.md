@@ -6,7 +6,7 @@
 
 Esse projeto é a estrutura de um <strong>menu de restaurante</strong> feito utilizando <strong>HTML</strong> e <strong>CSS</strong>. 
 
-#### Para visualizar o menu do RocketCoffee basta <a href="clever-pie-b9f17f.netlify.app">clicar aqui</a> ou escanear o QRcode abaixo com o celular! 
+#### Para visualizar o menu do RocketCoffee basta <a href="https://clever-pie-b9f17f.netlify.app">clicar aqui</a> ou escanear o QRcode abaixo com o celular! 
 
 <div align="center">
   <img src="./frame.png" width="200" height="250" title="Leia o QRcode com o seu celular" alt="QR code para acessar o menu">
